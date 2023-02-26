@@ -1,1 +1,2 @@
-print(5+4)
+def addition():
+ print(5+4)
